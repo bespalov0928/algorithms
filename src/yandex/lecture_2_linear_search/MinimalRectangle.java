@@ -5,6 +5,10 @@ import java.io.InputStreamReader;
 
 public class MinimalRectangle {
 
+    //На клетчатой плоскости закрашено K клеток.
+    //Требуется найти минимальный по площади прямоугольник, со сторонами, параллельными линиям сетки, покрывающий все закрашенные клетки.
+    //https://contest.yandex.ru/contest/59540/problems/?success=112550565#30404/2024_03_02/m1fSEfUHs4
+
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Integer k = Integer.valueOf(br.readLine());
