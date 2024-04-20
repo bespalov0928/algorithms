@@ -1,4 +1,4 @@
-package yandex.lecture_2_linear_search;
+package yandex.lecture_2_linear_search.lecture;
 
 //Задача:
 // Остров игрока представляет собой набор столбцов разной высоты,

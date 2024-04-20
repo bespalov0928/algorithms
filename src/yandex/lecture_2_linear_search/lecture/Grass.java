@@ -1,4 +1,4 @@
-package yandex.lecture_2_linear_search;
+package yandex.lecture_2_linear_search.lecture;
 
 //Задача: Газон
 //Трава подстрижена в прямоуголнике с углами (х1, y1) и (х2, y2). В каждой целой точкерастет пучок травы

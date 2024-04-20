@@ -1,12 +1,10 @@
-package yandex.lecture_2_linear_search;
+package yandex.lecture_2_linear_search.lecture;
 
 //Задача: упрощенная RLE
 //Дана строка (возможно пустая) состоящая из букв A-Z:
 //AAABBBBDFFFFFFFSSSSSSHHHH
 //нужно написать функцию RLE, кторая на выходе даст строку вида
 //A3B4DF7S6H4
-
-import java.util.StringJoiner;
 
 public class rle {
     public String rleStart(String str) {

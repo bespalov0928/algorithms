@@ -1,4 +1,4 @@
-package yandex.lecture_2_linear_search;
+package yandex.lecture_2_linear_search.lecture;
 
 public class findMaxElement {
     public int findmax(int[] seq) {

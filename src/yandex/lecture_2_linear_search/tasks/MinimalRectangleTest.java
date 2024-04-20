@@ -1,9 +1,7 @@
-package yandex.lecture_2_linear_search;
+package yandex.lecture_2_linear_search.tasks;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class MinimalRectangleTest {
 

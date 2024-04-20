@@ -1,4 +1,4 @@
-package yandex.lecture_2_linear_search;
+package yandex.lecture_2_linear_search.tasks;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
